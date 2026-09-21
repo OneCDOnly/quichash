@@ -2,7 +2,7 @@ Project source: [https://github.com/vyrti/quichash](https://github.com/vyrti/qui
 
 The `hash` checksum utility from @vyrti (Aleksei Zaitsev)
 
-![logo](images/quichash.logo.png)
+![logo](images/original.png)
 
 After installing the QPKG, login to your NAS via SSH, then run:
 
