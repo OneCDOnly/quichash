@@ -9,15 +9,20 @@
 # Description:
 #   This script is part of the 'quichash' package
 #
-# Community forum:
-#   https://community.qnap.com
+# Available in the MyQNAP store:
+#	https://www.myqnap.org/product/
+#
+# And via the sherpa package manager:
+#	https://git.io/sherpa
 #
 # QPKG source:
-#   https://github.com/OneCDOnly
+#   https://github.com/OneCDOnly/quichash
 #
-# Project source:
-#   https://
-#   https://
+# Application source:
+#   https://github.com/vyrti/quichash
+#
+# Community forum:
+#	https://community.qnap.com/
 #
 # This program is free software: you can redistribute it and/or modify it under
 # the terms of the GNU General Public License as published by the Free Software

@@ -9,4 +9,4 @@ After installing the QPKG, login to your NAS via SSH, then run:
 ```
 qhash --help
 ```
-QPKG source: [https://github.com/OneCDOnly/](https://github.com/OneCDOnly/)
+QPKG source: [https://github.com/OneCDOnly/quichash](https://github.com/OneCDOnly/quichash)

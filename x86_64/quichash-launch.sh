@@ -6,7 +6,8 @@
 # Contact:
 #	one.cd.only@gmail.com
 #
-# This is the launcher script for the 'quichash' QPKG
+# Description:
+#	This is the launcher script for the 'quichash' QPKG
 #
 # Available in the MyQNAP store:
 #	https://www.myqnap.org/product/
@@ -15,10 +16,10 @@
 #	https://git.io/sherpa
 #
 # QPKG source:
-#	https://github.com/OneCDOnly/
+#   https://github.com/OneCDOnly/quichash
 #
 # Application source:
-#	https://github.com/
+#   https://github.com/vyrti/quichash
 #
 # Community forum:
 #	https://community.qnap.com/
